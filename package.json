@@ -1,0 +1,11 @@
+{
+  "name": "backendplay",
+  "version": "1.0.0",
+  "description": "A backend complete code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Kumar",
+  "license": "ISC"
+}
